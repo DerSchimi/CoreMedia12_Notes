@@ -1,0 +1,14 @@
+cmcc-12-2401.1
+
+Install Java 17 and enable it, eg: jenv global 17
+
+
+Fix Sencha:
+
+https://documentation.coremedia.com/cmcc-12/release-notes/content/CMS-23171-1-2401.1.html
+
+Set INSTALL4J_JAVA_HOME_OVERRIDE to point to JAVA 11, eg. /user/home/.jenv/versions/11.0/bin
+
+(Re)-Install Sencha
+
+
