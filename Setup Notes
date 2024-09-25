@@ -12,3 +12,10 @@ Set INSTALL4J_JAVA_HOME_OVERRIDE to point to JAVA 11, eg. /user/home/.jenv/versi
 (Re)-Install Sencha
 
 
+cmcc-12-2406.0.2
+
+Install Java 17 and enable it, eg: jenv global 17
+Install node 20 and activate it via .zshrc
+
+export PATH="/opt/homebrew/opt/node@20/bin:$PATH"
+
