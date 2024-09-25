@@ -19,3 +19,8 @@ Install node 20 and activate it via .zshrc
 
 export PATH="/opt/homebrew/opt/node@20/bin:$PATH"
 
++ exec zsh
+
+pnpm version 9.11.0
+pnpm i -g pnpm@9.11.0
+
