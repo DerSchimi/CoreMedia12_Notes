@@ -24,3 +24,5 @@ export PATH="/opt/homebrew/opt/node@20/bin:$PATH"
 pnpm version 9.11.0
 pnpm i -g pnpm@9.11.0
 
+When using mac os, add this to your maven build 
+-Djib.from.platforms=linux/arm64
