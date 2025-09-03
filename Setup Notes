@@ -26,3 +26,10 @@ pnpm i -g pnpm@9.11.0
 
 When using mac os, add this to your maven build 
 -Djib.from.platforms=linux/arm64
+
+
+
+cmcc-12-2406.2.0
+
+pnpm 10.11.0
+node min 22
